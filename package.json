@@ -6,10 +6,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
-    "init-db": "node scripts/init-db.js",
-    "vercel-build": "node scripts/setup-vercel.js",
-    "setup-vercel": "node scripts/setup-vercel.js",
-    "build": "echo 'Build completed successfully'"
+    "build": "echo 'Build completed successfully'",
+    "vercel-build": "echo 'Build completed successfully'"
   },
   "keywords": ["teacher", "documents", "management", "education", "files"],
   "author": "Mr. Hassani Development Team",
